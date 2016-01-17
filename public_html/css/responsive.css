@@ -1,0 +1,110 @@
+/*
+Theme Name: Color
+
+*/
+
+@media screen and (max-width: 980px) {
+
+}
+@media screen and (max-width: 768px) {
+  .item:hover .overlay_item_content{
+    top:20%;
+   
+	
+}
+.pricing_item ul {
+  text-align: center;
+  
+}
+
+}
+
+@media screen and (max-width: 640px) {
+    .isotope-filters button {
+  
+  padding: 5px 15px;
+ font-size: 12px;
+}
+ .item:hover .overlay_item_content{
+    top:20%;
+   
+	
+}
+.video_content h2 {
+  
+  font-size: 30px;
+  
+  margin-top: 20%;
+}
+.blog_content {
+  padding: 20px 150px;
+  
+}
+}
+
+@media screen and (max-width: 480px) {
+    .section_header h2 {
+  
+  font-size: 24px;
+  
+}
+.isotope-filters button {
+  padding: 5px;
+}
+ .item:hover .overlay_item_content{
+    top:10%;
+   
+	
+}
+.overlay_item_content h4 {
+  
+  font-size: 12px;
+  
+}
+.overlay_item_content p {
+  
+  font-size: 10px;
+  
+}
+.blog_content {
+  padding: 20px 80px;
+ 
+}
+}
+
+@media screen and (max-width: 320px) {
+    .section_header h2 {
+  
+  font-size: 24px;
+  
+}
+ .item:hover .overlay_item_content{
+    top:10%;
+   
+	
+}
+.isotope-filters button {
+  padding: 5px 15px;
+}
+.overlay_item_content h4 {
+  
+  font-size: 12px;
+  
+}
+.overlay_item_content p {
+  
+  font-size: 10px;
+  
+}
+.blog_content {
+  padding: 20px 5px;
+}
+.client_img img {
+  margin-top: -30px;
+  padding: 0 5px;
+}
+.designision {
+  margin-top: -10px;
+  padding: 0 80px;
+}
+}
